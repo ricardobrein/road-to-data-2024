@@ -1,4 +1,4 @@
-# Road_to_the_data_2024
+# My Google Data Analytics Certificate roadmap
 ### In this repo, i'll share my day-to-day learnings in data analysis, data engineering and AI.
 
 My journey to continous learning about the world of data and Machine Learning with the Google's Professional certificate in Data Analytics
